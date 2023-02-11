@@ -1,3 +1,4 @@
 ion li
 ili36@gatech.edu
+Spring 2023
 I know how to use Github now!
